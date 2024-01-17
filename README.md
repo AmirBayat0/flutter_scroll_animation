@@ -1,5 +1,5 @@
-# Controll listview scroll using tabbar and reflect in flutter
-## [Tutorial Video on Youtube]()
+# Enable automatic scrolling of the listView when the active tab bar changes, and simultaneously keep the selected tab in sync as the user scrolls through the list in a Flutter application.
+## [Tutorial Video on Youtube](https://youtu.be/gBQmI1kBHC0)
 
 
 
