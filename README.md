@@ -1,5 +1,6 @@
 # Enable automatic scrolling of the listView when the active tab bar changes, and simultaneously keep the selected tab in sync as the user scrolls through the list in a Flutter application.
 ## [Tutorial Video on Youtube](https://youtu.be/gBQmI1kBHC0)
+![newScroll anime](https://github.com/AmirBayat0/flutter_scroll_animation/assets/91388754/e7882b8f-916a-4045-9d57-379bec724adb)
 ![main](https://github.com/AmirBayat0/flutter_scroll_animation/assets/91388754/4a4e97db-75b8-402d-abbf-04108179aae1)
 
 
